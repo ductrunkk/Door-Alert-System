@@ -11,3 +11,5 @@ To solve the need for an audible alert when customers pass through the doorway, 
 - Output: 3W 4Ohm Speaker
 - Power: 5V 2A Adapter
 
+## Circuit Diagram
+<img src="./circuit.png" alt="Circuit diagram for project" width="700" />
